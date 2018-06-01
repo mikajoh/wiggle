@@ -1,0 +1,5 @@
+^LICENSE\.md$
+analysis
+^\.travis\.yml$
+^Dockerfile$
+^appveyor\.yml$

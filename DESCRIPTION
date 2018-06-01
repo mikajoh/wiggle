@@ -1,0 +1,9 @@
+Package: wiggle
+Title: Research Compendium for the "Wiggle" Project
+Version: 0.0.0.9000
+Authors@R: person("Mikael Poul", "Johannesson", email = "first.last@example.com", role = c("aut", "cre"))
+Description: Research compendium for "wiggle": Experiments about the wiggle room of legitimacy in referendums.
+Depends: R (>= 3.5.0)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
