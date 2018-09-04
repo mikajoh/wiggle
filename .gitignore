@@ -4,10 +4,11 @@
 vignettes/*_cache/
 R/.old/
 .old/
-analysis/raw*
-!analysis/raw/docs/*.pdf
-!analysis/raw/wiggle_treatments.csv
+analysis/raw/*
 analysis/wiggle_replication.zip
+!/analysis/raw/docs
+!/analysis/raw/wiggle_treatments\.csv
+!/analysis/raw
 *~
 *#
 !.gitignore
