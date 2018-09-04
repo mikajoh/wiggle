@@ -3,3 +3,5 @@ analysis
 ^\.travis\.yml$
 ^Dockerfile$
 ^appveyor\.yml$
+r7padpilot.csv
+wiggle.RProj

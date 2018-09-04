@@ -1,0 +1,34 @@
+
+\begin{tabular}{llrr}
+\toprule
+Variable & Value & N obs & \% obs\\
+\midrule
+Age & 18-27 yrs & 61 & 6\\
+Age & 26-35 yrs & 117 & 11\\
+Age & 36-45 yrs & 151 & 14\\
+Age & 46-55 yrs & 203 & 19\\
+Age & 56-65 yrs & 263 & 25\\
+\addlinespace
+Age & 66-75 yrs & 222 & 21\\
+Age & 75+ yrs & 48 & 5\\
+Gender & Male & 533 & 50\\
+Gender & Female & 532 & 50\\
+Education & Lower or intermediate & 403 & 39\\
+\addlinespace
+Education & Higher & 626 & 61\\
+EU preference & Against EU Membership & 642 & 60\\
+EU preference & For EU Membership & 247 & 23\\
+EU preference & Don't know & 173 & 16\\
+Prefered party & Red Party (FL) & 28 & 3\\
+\addlinespace
+Prefered party & Socialist Left (L) & 60 & 6\\
+Prefered party & Labour Party (CL) & 377 & 38\\
+Prefered party & Agrarian Party (C) & 69 & 7\\
+Prefered party & Green Party (C) & 42 & 4\\
+Prefered party & Christian Democracts (C) & 41 & 4\\
+\addlinespace
+Prefered party & Liberal Party (C) & 54 & 5\\
+Prefered party & Conservative Party (CR) & 239 & 24\\
+Prefered party & Progress Party (FR) & 81 & 8\\
+\bottomrule
+\end{tabular}

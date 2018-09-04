@@ -1,0 +1,24 @@
+
+\begin{tabular}{llrr}
+\toprule
+Treatment & Assigned Value & N obs & \% obs\\
+\midrule
+Turnout & Not shown & 531 & 50\\
+Turnout & 35\% & 125 & 12\\
+Turnout & 47\% & 128 & 12\\
+Turnout & 53\% & 141 & 13\\
+Turnout & 85\% & 140 & 13\\
+\addlinespace
+Majority & Not shown & 504 & 47\\
+Majority & 51\% & 180 & 17\\
+Majority & 55\% & 186 & 17\\
+Majority & 70\% & 195 & 18\\
+Outcome & Not shown & 359 & 34\\
+\addlinespace
+Outcome & Against EU Membership won & 363 & 34\\
+Outcome & For EU Membership won & 343 & 32\\
+Outcome * EU preference & Not shown & 359 & 38\\
+Outcome * EU preference & Unfavourable outcome & 300 & 32\\
+Outcome * EU preference & Favourable outcome & 285 & 30\\
+\bottomrule
+\end{tabular}

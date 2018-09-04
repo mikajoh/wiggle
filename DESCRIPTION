@@ -1,9 +1,18 @@
 Package: wiggle
-Title: Research Compendium for the "Wiggle" Project
-Version: 0.0.0.9000
-Authors@R: person("Mikael Poul", "Johannesson", email = "first.last@example.com", role = c("aut", "cre"))
-Description: Research compendium for "wiggle": Experiments about the wiggle room of legitimacy in referendums.
+Title: Research Compendium for the EUP paper titled "Conditional Legitimacy: How turnout, majority size and outcome affect perceptions of legitimacy in EU membership referendums"
+Version: 0.0.1.0000
+Authors@R: person("Mikael Poul", "Johannesson", email = "mikajoh@gmail.com", role = c("aut", "cre"))
+Description: Research compendium for "Conditional Legitimacy: How turnout, majority size and outcome affect perceptions of legitimacy in EU membership referendums". Paper written by Sveinung Arnesen, Troy Saghaug Broderstad, Mikael Poul Johannesson, and Jonas Linde.
 Depends: R (>= 3.5.0)
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.0.1
+Imports: broom,
+    ggplot2,
+    here,
+    lmtest,
+    rlang,
+    sandwich,
+    tibble,
+    tidyselect

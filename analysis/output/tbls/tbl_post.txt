@@ -1,0 +1,9 @@
+
+\begin{tabular}{llrr}
+\toprule
+Post treatment & Value & N obs & \% obs\\
+\midrule
+Should referendum be followed & Should not follow referendum & 248 & 23\\
+Should referendum be followed & Should follow referendum & 817 & 77\\
+\bottomrule
+\end{tabular}

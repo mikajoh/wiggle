@@ -1,0 +1,37 @@
+
+% Table created by stargazer v.5.2.2 by Marek Hlavac, Harvard University. E-mail: hlavac at fas.harvard.edu
+% Date and time: on., aug. 29, 2018 - kl. 14.27 +0200
+\begin{table}[!htbp] \centering 
+  \caption{} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}}lc} 
+\\[-1.8ex]\hline \\[-1.8ex] 
+\\[-1.8ex] & \textbf{Should follow referendum} \\ 
+\hline \\[-1.8ex] 
+ Majority of 70% & 0.289 \\ 
+  & ($-$0.194, 0.772) \\ 
+  Majority of 55% & $-$0.182 \\ 
+  & ($-$0.635, 0.270) \\ 
+  Majority of 51% & $-$0.739$^{***}$ \\ 
+  & ($-$1.174, $-$0.303) \\ 
+  Turnout of 85% & 0.518$^{*}$ \\ 
+  & ($-$0.082, 1.119) \\ 
+  Turnout of 53% & $-$0.281 \\ 
+  & ($-$0.790, 0.228) \\ 
+  Turnout of 47% & $-$0.887$^{***}$ \\ 
+  & ($-$1.367, $-$0.406) \\ 
+  Turnout of 35% & $-$1.639$^{***}$ \\ 
+  & ($-$2.108, $-$1.171) \\ 
+  Favourable outcome & 0.954$^{***}$ \\ 
+  & (0.497, 1.410) \\ 
+  Unfavourable outcome & $-$0.382$^{**}$ \\ 
+  & ($-$0.749, $-$0.015) \\ 
+  Constant & 1.622$^{***}$ \\ 
+  & (1.259, 1.986) \\ 
+ N & 944 \\ 
+Log Likelihood & $-$445.806 \\ 
+AIC & 911.611 \\ 
+\hline \\[-1.8ex] 
+\multicolumn{2}{l}{$^{***}$p $<$ .01; $^{**}$p $<$ .05; $^{*}$p $<$ .1} \\ 
+\end{tabular} 
+\end{table} 

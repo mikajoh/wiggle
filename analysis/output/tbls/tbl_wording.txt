@@ -1,0 +1,78 @@
+
+\begin{tabular}{llll}
+\toprule
+Assigned Turnout & Assigned Majority & Assigned Outcome & Exact Wording\\
+\midrule
+Not shown & Not shown & Not shown & \\
+Not shown & Not shown & For EU Membership won & La oss si at ja-siden fikk flertall.\\
+Not shown & Not shown & Against EU Membership won & La oss si at nei-siden fikk flertall.\\
+Not shown & 70\% & Not shown & La oss si at den vinnende siden fikk 70\% av stemmene.\\
+Not shown & 70\% & For EU Membership won & La oss si at ja-siden fikk 70\% av stemmene.\\
+\addlinespace
+Not shown & 70\% & Against EU Membership won & La oss si at nei-siden fikk 70\% av stemmene.\\
+Not shown & 55\% & Not shown & La oss si at den vinnende siden fikk 55\% av stemmene.\\
+Not shown & 55\% & For EU Membership won & La oss si at ja-siden fikk 55\% av stemmene.\\
+Not shown & 55\% & Against EU Membership won & La oss si at nei-siden fikk 55\% av stemmene.\\
+Not shown & 51\% & Not shown & La oss si at den vinnende siden fikk 51\% av stemmene.\\
+\addlinespace
+Not shown & 51\% & For EU Membership won & La oss si at ja-siden fikk 51\% av stemmene.\\
+Not shown & 51\% & Against EU Membership won & La oss si at nei-siden fikk 51\% av stemmene.\\
+85\% & Not shown & Not shown & La oss si at 85\% av befolkningen deltok.\\
+85\% & Not shown & For EU Membership won & La oss si at 85\% av befolkningen deltok og at ja-siden fikk flertall.\\
+85\% & Not shown & Against EU Membership won & La oss si at 85\% av befolkningen deltok og at nei-siden fikk flertall.\\
+\addlinespace
+85\% & 70\% & Not shown & La oss si at 85\% av befolkningen deltok og at den vinnende siden fikk 70\% av stemmene.\\
+85\% & 70\% & For EU Membership won & La oss si at 85\% av befolkningen deltok og at ja-siden fikk 70\% av stemmene.\\
+85\% & 70\% & Against EU Membership won & La oss si at 85\% av befolkningen deltok og at nei-siden fikk 70\% av stemmene.\\
+85\% & 55\% & Not shown & La oss si at 85\% av befolkningen deltok og at den vinnende siden fikk 55\% av stemmene.\\
+85\% & 55\% & For EU Membership won & La oss si at 85\% av befolkningen deltok og at ja-siden fikk 55\% av stemmene.\\
+\addlinespace
+85\% & 55\% & Against EU Membership won & La oss si at 85\% av befolkningen deltok og at nei-siden fikk 55\% av stemmene.\\
+85\% & 51\% & Not shown & La oss si at 85\% av befolkningen deltok og at den vinnende siden fikk 51\% av stemmene.\\
+85\% & 51\% & For EU Membership won & La oss si at 85\% av befolkningen deltok og at ja-siden fikk 51\% av stemmene.\\
+85\% & 51\% & Against EU Membership won & La oss si at 85\% av befolkningen deltok og at nei-siden fikk 51\% av stemmene.\\
+53\% & Not shown & Not shown & La oss si at 53\% av befolkningen deltok.\\
+\addlinespace
+53\% & Not shown & For EU Membership won & La oss si at 53\% av befolkningen deltok og at ja-siden fikk flertall.\\
+53\% & Not shown & Against EU Membership won & La oss si at 53\% av befolkningen deltok og at nei-siden fikk flertall.\\
+53\% & 70\% & Not shown & La oss si at 53\% av befolkningen deltok og at den vinnende siden fikk 70\% av stemmene.\\
+53\% & 70\% & For EU Membership won & La oss si at 53\% av befolkningen deltok og at ja-siden fikk 70\% av stemmene.\\
+53\% & 70\% & Against EU Membership won & La oss si at 53\% av befolkningen deltok og at nei-siden fikk 70\% av stemmene.\\
+\addlinespace
+53\% & 55\% & Not shown & La oss si at 53\% av befolkningen deltok og at den vinnende siden fikk 55\% av stemmene.\\
+53\% & 55\% & For EU Membership won & La oss si at 53\% av befolkningen deltok og at ja-siden fikk 55\% av stemmene.\\
+53\% & 55\% & Against EU Membership won & La oss si at 53\% av befolkningen deltok og at nei-siden fikk 55\% av stemmene.\\
+53\% & 51\% & Not shown & La oss si at 53\% av befolkningen deltok og at den vinnende siden fikk 51\% av stemmene.\\
+53\% & 51\% & For EU Membership won & La oss si at 53\% av befolkningen deltok og at ja-siden fikk 51\% av stemmene.\\
+\addlinespace
+53\% & 51\% & Against EU Membership won & La oss si at 53\% av befolkningen deltok og at nei-siden fikk 51\% av stemmene.\\
+47\% & Not shown & Not shown & La oss si at 47\% av befolkningen deltok.\\
+47\% & Not shown & For EU Membership won & La oss si at 47\% av befolkningen deltok og at ja-siden fikk flertall.\\
+47\% & Not shown & Against EU Membership won & La oss si at 47\% av befolkningen deltok og at nei-siden fikk flertall.\\
+47\% & 70\% & Not shown & La oss si at 47\% av befolkningen deltok og at den vinnende siden fikk 70\% av stemmene.\\
+\addlinespace
+47\% & 70\% & For EU Membership won & La oss si at 47\% av befolkningen deltok og at ja-siden fikk 70\% av stemmene.\\
+47\% & 70\% & Against EU Membership won & La oss si at 47\% av befolkningen deltok og at nei-siden fikk 70\% av stemmene.\\
+47\% & 55\% & Not shown & La oss si at 47\% av befolkningen deltok og at den vinnende siden fikk 55\% av stemmene.\\
+47\% & 55\% & For EU Membership won & La oss si at 47\% av befolkningen deltok og at ja-siden fikk 55\% av stemmene.\\
+47\% & 55\% & Against EU Membership won & La oss si at 47\% av befolkningen deltok og at nei-siden fikk 55\% av stemmene.\\
+\addlinespace
+47\% & 51\% & Not shown & La oss si at 47\% av befolkningen deltok og at den vinnende siden fikk 51\% av stemmene.\\
+47\% & 51\% & For EU Membership won & La oss si at 47\% av befolkningen deltok og at ja-siden fikk 51\% av stemmene.\\
+47\% & 51\% & Against EU Membership won & La oss si at 47\% av befolkningen deltok og at nei-siden fikk 51\% av stemmene.\\
+35\% & Not shown & Not shown & La oss si at 35\% av befolkningen deltok.\\
+35\% & Not shown & For EU Membership won & La oss si at 35\% av befolkningen deltok og at ja-siden fikk flertall.\\
+\addlinespace
+35\% & Not shown & Against EU Membership won & La oss si at 35\% av befolkningen deltok og at nei-siden fikk flertall.\\
+35\% & 70\% & Not shown & La oss si at 35\% av befolkningen deltok og at den vinnende siden fikk 70\% av stemmene.\\
+35\% & 70\% & For EU Membership won & La oss si at 35\% av befolkningen deltok og at ja-siden fikk 70\% av stemmene.\\
+35\% & 70\% & Against EU Membership won & La oss si at 35\% av befolkningen deltok og at nei-siden fikk 70\% av stemmene.\\
+35\% & 55\% & Not shown & La oss si at 35\% av befolkningen deltok og at den vinnende siden fikk 55\% av stemmene.\\
+\addlinespace
+35\% & 55\% & For EU Membership won & La oss si at 35\% av befolkningen deltok og at ja-siden fikk 55\% av stemmene.\\
+35\% & 55\% & Against EU Membership won & La oss si at 35\% av befolkningen deltok og at nei-siden fikk 55\% av stemmene.\\
+35\% & 51\% & Not shown & La oss si at 35\% av befolkningen deltok og at den vinnende siden fikk 51\% av stemmene.\\
+35\% & 51\% & For EU Membership won & La oss si at 35\% av befolkningen deltok og at ja-siden fikk 51\% av stemmene.\\
+35\% & 51\% & Against EU Membership won & La oss si at 35\% av befolkningen deltok og at nei-siden fikk 51\% av stemmene.\\
+\bottomrule
+\end{tabular}

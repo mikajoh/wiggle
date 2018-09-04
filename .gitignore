@@ -6,8 +6,12 @@ R/.old/
 .old/
 analysis/raw*
 !analysis/raw/docs/*.pdf
+!analysis/raw/wiggle_treatments.csv
+analysis/wiggle_replication.zip
 *~
 *#
 !.gitignore
 !.Rbuildignore
 *.#server.R
+r7padpilot.csv
+wiggle.RProj
