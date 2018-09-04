@@ -1,14 +1,11 @@
-# Research Compendium for "Conditional Legitimacy: How turnout, majority size and outcome affect perceptions of legitimacy in EU membership referendums"
+### Research Compendium for "Conditional Legitimacy: How turnout, majority size and outcome affect perceptions of legitimacy in EU membership referendums" 
+Authored by Sveinung Arnesen, Troy Saghaug Broderstad, [Mikael Poul Johannesson](mailto:mikael.johannesson@uib.no), and Jonas Linde.
 
 [![Travis-CI Build Status](https://travis-ci.org/mikajoh/wiggle.svg?branch=master)](https://travis-ci.org/mikajoh/wiggle)
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/mikajoh/wiggle?branch=master&svg=true)](https://ci.appveyor.com/project/mikajoh/wiggle)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/mikajoh/wiggle/master/LICENSE)
 
-"Conditional Legitimacy: How turnout, majority size and outcome affect perceptions of legitimacy in EU membership referendums" by Sveinung Arnesen, Troy Saghaug Broderstad, [Mikael Poul Johannesson](mailto:mikael.johannesson@uib.no), and Jonas Linde.
-
 > This conjoint study investigates the type of mandate that a referendum confers in the political decision-making process. We find that it varies considerably along three dimensions. While a majority of citizens in general believe that the government should follow the results of a referendum on EU membership, its perceived legitimacy in the eyes of the public heavily depends upon 1) the level of turnout, 2) the size of the majority, and 3) the outcome of the specific referendum in question. Thus, whether a referendum legitimizes a political decision in the eyes of the public is conditional upon these three dimensions.
-
-Comments, questions, and suggestions are very welcomed! Please contact me at [mikael.johannesson@uib.no](mailto:mikael.johannesson@uib.no).
 
 #### Install
 
